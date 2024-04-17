@@ -2,7 +2,7 @@
 
 dependencies {
     compile('org.xerial:sqlite-jdbc:3.8.5-pre1')
-    compile('mysql:mysql-connector-java:5.1.32')
+    compile('mysql:mysql-connector-java:8.0.33')
 
     compileOnly('com.forgeessentials:forgeessentials:1.4.6-SNAPSHOT:dev') {transitive = false}
 
